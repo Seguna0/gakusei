@@ -1,2 +1,2 @@
 # gakusei
-git remote add origin https://github.com/username/portfolio-site.git
+git remote add origin https://github.com/Seguna0/portfolio-site.git
